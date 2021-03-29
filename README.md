@@ -1,2 +1,7 @@
-# slack-notification-tag
-Slack Notification tag for Google Tag Manager Server Side
+# Slack Notification Tag for Google Tag Manager Server Side
+
+TBD
+
+## Open Source
+
+Slack Notification Tag for GTM Server Side is developed and maintained by [GTM Server Team](https://gtm-server.com/) under the Apache 2.0 license.

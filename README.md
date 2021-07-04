@@ -8,9 +8,9 @@ You can use it for any purpose; for example, if you have an online store that al
 
 ## How to use Slack tag for Google Tag Manager Server container
 
-- [Send Slack Notifications Using Google Tag Manager Server Container](https://gtm-server.com/send-slack-notifications-using-google-tag-manager-server-container/)
+- [Send Slack Notifications Using Google Tag Manager Server Container](https://stape.io/send-slack-notifications-using-google-tag-manager-server-container/)
 
 
 ## Open Source
 
-Slack Notification Tag for GTM Server Side is developed and maintained by [GTM Server Team](https://gtm-server.com/) under the Apache 2.0 license.
+Slack Notification Tag for GTM Server Side is developed and maintained by [GTM Server Team](https://stape.io/) under the Apache 2.0 license.

@@ -13,4 +13,4 @@ You can use it for any purpose; for example, if you have an online store that al
 
 ## Open Source
 
-Slack Notification Tag for GTM Server Side is developed and maintained by [GTM Server Team](https://stape.io/) under the Apache 2.0 license.
+Slack Notification Tag for GTM Server Side is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
